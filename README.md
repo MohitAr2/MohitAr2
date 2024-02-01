@@ -3,8 +3,8 @@ Hi 👋 My name is P. Mohit
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [mohitpatnaikuni1@gmail.com](mailto:mohitpatnaikuni1@gmail.com)
-* 🧠  I'm learning Node \[and everything ML + frontend bs\]
-* 🤝  I'm open to collaborating on anything
+* 🧠  I'm learning Node \[and everything ML + frontend \]
+
 
 <a href="https://www.github.com/MohitAr2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MohitAr2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
